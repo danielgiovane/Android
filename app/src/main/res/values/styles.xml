@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#01c7D2</item>
+        <item name="colorPrimaryDark">#00B2BC</item>
+        <item name="colorAccent">#FF706A</item>
+    </style>
+
+        <color name="ColorDespesa">#FF706A</color>
+        <color name="ColorDarkDespesa">#E66560</color>
+        <color name="ColorAccentDespesa">#FF706A</color>
+        <color name="ColorRenda">#08CE15</color>
+        <color name="ColorAjuda">#FF706A</color>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
