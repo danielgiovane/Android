@@ -8,12 +8,15 @@
         <item name="colorAccent">#FF706A</item>
     </style>
 
+<<<<<<< HEAD
         <color name="ColorDespesa">#FF706A</color>
         <color name="ColorDarkDespesa">#E66560</color>
         <color name="ColorAccentDespesa">#FF706A</color>
         <color name="ColorRenda">#08CE15</color>
         <color name="ColorAjuda">#FF706A</color>
 
+=======
+>>>>>>> 0c7a05f7186915226be1fdd06c4cf5c820507514
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>

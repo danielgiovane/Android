@@ -6,6 +6,10 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.example.organize.R;
+<<<<<<< HEAD
+=======
+import com.example.organize.activity.PrincipalActivity;
+>>>>>>> 0c7a05f7186915226be1fdd06c4cf5c820507514
 import com.example.organize.activity.config.ConfigureFirebase;
 import com.google.firebase.auth.FirebaseAuth;
 
@@ -28,12 +32,15 @@ public class MainActivity extends AppCompatActivity {
         autenticacao.signOut();
     }
 
+<<<<<<< HEAD
     @Override
     public void onBackPressed() {
         super.onBackPressed();
         finish();
     }
 
+=======
+>>>>>>> 0c7a05f7186915226be1fdd06c4cf5c820507514
     public void btEntrar(View view){
 
         startActivity(new Intent(this, LoginActivity.class));

@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+<<<<<<< HEAD
             android:name=".activity.activity.PrincipalActivity"
+=======
+            android:name=".activity.PrincipalActivity"
+>>>>>>> 0c7a05f7186915226be1fdd06c4cf5c820507514
             android:label="@string/title_activity_principal"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".activity.activity.CadastroActivity" />

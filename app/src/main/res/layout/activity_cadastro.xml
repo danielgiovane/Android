@@ -37,7 +37,11 @@
         android:drawablePadding="5dp"
         android:ems="10"
         android:inputType="textPersonName"
+<<<<<<< HEAD
         android:hint="Name"
+=======
+        android:text="Name"
+>>>>>>> 0c7a05f7186915226be1fdd06c4cf5c820507514
         android:textColor="@android:color/darker_gray"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -56,7 +60,11 @@
         android:drawableLeft="@drawable/ic_email_cinza_24dp"
         android:drawablePadding="5dp"
         android:ems="10"
+<<<<<<< HEAD
         android:hint="Email"
+=======
+        android:text="Email"
+>>>>>>> 0c7a05f7186915226be1fdd06c4cf5c820507514
         android:textColor="@android:color/darker_gray"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -75,7 +83,11 @@
         android:drawablePadding="5dp"
         android:ems="10"
         android:inputType="numberPassword"
+<<<<<<< HEAD
         android:hint="Name"
+=======
+        android:text="Name"
+>>>>>>> 0c7a05f7186915226be1fdd06c4cf5c820507514
         android:textColor="@android:color/darker_gray"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

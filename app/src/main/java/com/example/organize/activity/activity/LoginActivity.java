@@ -10,6 +10,10 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.example.organize.R;
+<<<<<<< HEAD
+=======
+import com.example.organize.activity.PrincipalActivity;
+>>>>>>> 0c7a05f7186915226be1fdd06c4cf5c820507514
 import com.example.organize.activity.config.ConfigureFirebase;
 import com.example.organize.activity.model.Usuario;
 import com.google.android.gms.tasks.OnCompleteListener;
